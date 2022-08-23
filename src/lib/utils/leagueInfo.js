@@ -138,7 +138,7 @@ export const managers = [
     {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Reese",
-      "tookOver": "2019 from EP", // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2019, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Iowa City, IA", // (optional)
       "bio": null,
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
